@@ -25,6 +25,7 @@ description: Managing Aidbox licenses in a project
      1. Specify _Zone_
      2. Enter the _Instance URL_
      3. Specify _FHIR Version_
+     4. Specify _Configuration project_
 8. Click _**Create**_
 
 ### Delete license
